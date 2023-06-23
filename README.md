@@ -1,6 +1,6 @@
 # Machine Learning and Deep Learning - I
 
-This course is offered at the Institute of Robotics and Automation, BUET (IRAB) by instructors Md Awsafur Rahman and Bishmoy Paul.
+This course is offered at the `Institute of Robotics and Automation, BUET (IRAB)` by instructors Md Awsafur Rahman and Bishmoy Paul.
 
 ## Course Overview
 
