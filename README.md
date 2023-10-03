@@ -30,7 +30,7 @@ Each assignment is created as a Kaggle competition so that students can evaluate
 
 * Assignment-01: [Titanic Competition](https://www.kaggle.com/competitions/titanic)
 * Assignment-02: [Multiclass Classification with MLP](https://www.kaggle.com/competitions/mldl-i-assignment-02)
-* Assignment-03: [Multiclass Classification with CNN](ttps://www.kaggle.com/competitions/mldl-i-assignment-03)
+* Assignment-03: [Multiclass Classification with CNN](https://www.kaggle.com/competitions/mldl-i-assignment-03)
 
 ## Prerequisites
 
