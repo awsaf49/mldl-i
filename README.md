@@ -28,6 +28,10 @@ The course will be structured as a combination of lectures, hands-on exercises, 
 
 Each assignment is created as a Kaggle competition so that students can evaluate their scores in real-time and also compare their results with other students. Please note that the initial leaderboard is based on a small portion of the test data (public test), while the final standing will be based on the rest of the test data (private test). Therefore, avoid overfitting on the public test data.
 
+* Assignment-01: [Titanic Competition](https://www.kaggle.com/competitions/titanic)
+* Assignment-02: [Multiclass Classification with MLP](https://www.kaggle.com/competitions/mldl-i-assignment-02)
+* Assignment-03: [Multiclass Classification with CNN](ttps://www.kaggle.com/competitions/mldl-i-assignment-03)
+
 ## Prerequisites
 
 To fully benefit from this course, it is recommended to have a basic understanding of programming concepts and mathematics. Familiarity with the Python programming language will be advantageous, as most practical implementations will be done using Python libraries.
