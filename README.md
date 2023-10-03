@@ -1,6 +1,7 @@
 # MLDL-I: Machine Learning and Deep Learning - I
 
-This course is offered at the `Institute of Robotics and Automation, BUET (IRAB)` by instructors Md Awsafur Rahman and Bishmoy Paul.
+<p>This course is offered at the <code>Institute of Robotics and Automation, BUET (IRAB)</code> by instructors <strong>Md Awsafur Rahman</strong> and <strong>Bishmoy Paul</strong>.</p>
+
 
 ## Course Overview
 
